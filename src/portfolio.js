@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "IT Professional with 2 years of experience in Mobile, Web and Systems development for payment companies. I can develop Web applications using React and Angular Frameworks. My greatest strength is adaptability, flexibility and ability to learn fast",
   resumeLink:
-    "https://drive.google.com/file/d/1wRqYlCd5gOjQmXNCkcHsn9OtYAbpYdmz/view",
+    "https://drive.google.com/file/d/1UCYPafnDE5eSN6eiOIoPoMU3Th-QUkYH/view?usp=sharing",
   portfolio_repository: "https://github.com/Maulid-Abdullahi?tab=repositories",
 };
 
