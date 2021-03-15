@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Maulid's Portfolio",
   description:
-    "A passionate and enthusiastic web developer with  2+ years of experience. I love new challenges and new projects that help me invest all my skills and experience into succeeding them.",
+    "A passionate and enthusiastic web developer with  1 year of experience. I love new challenges and new projects that help me invest all my skills and experience into succeeding them.",
   og: {
     title: "Maulid Abdullahi Portfolio",
     type: "website",
@@ -23,9 +23,9 @@ const greeting = {
   logo_name: "Maulid Abdullahi",
   nickname: "Abdul",
   subTitle:
-    "IT Professional with 2 years of experience in Mobile, Web and Systems development for payment companies. I can develop Web applications using React and Angular Frameworks. My greatest strength is adaptability, flexibility and ability to learn fast",
+    "IT Professional with 1 year of experience in Mobile, Web and Systems development for payment companies. I can develop Web applications using React and Angular Frameworks. My greatest strength is adaptability, flexibility and ability to learn fast",
   resumeLink:
-    "https://drive.google.com/file/d/1rG41g6NO6l7m7EED4c2R5d2z6ICR8cDD/view?usp=sharing",
+    "https://drive.google.com/file/d/1CuIDIQLgYleCXH4azJm_rEGIK2FRfYmX/view?usp=sharing",
   portfolio_repository: "https://github.com/Maulid-Abdullahi?tab=repositories",
 };
 
@@ -52,47 +52,6 @@ const socialMediaLinks = [
 
 const skills = {
   data: [
-    // {
-    //   title: "Web Development",
-    //   fileName: "DataScienceImg",
-    //   skills: [
-    //     "⚡ Develops and delivers database driven websites and web applications using on-premise and hosted IIS and Apache application server",
-    //     "⚡ Experience of working with Computer Vision and NLP projects",
-    //     "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-    //   ],
-    //   softwareSkills: [
-    //     {
-    //       skillName: "Tensorflow",
-    //       fontAwesomeClassname: "logos-tensorflow",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Keras",
-    //       fontAwesomeClassname: "simple-icons:keras",
-    //       style: {
-    //         backgroundColor: "white",
-    //         color: "#D00000",
-    //       },
-    //     },
-    //     {
-    //       skillName: "PyTorch",
-    //       fontAwesomeClassname: "logos-pytorch",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Python",
-    //       fontAwesomeClassname: "ion-logo-python",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //         color: "#3776AB",
-    //       },
-    //     },
-    //   ],
-    // },
     {
       title: "Full Stack Development",
       fileName: "FullStackImg",
@@ -296,7 +255,6 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      // profileLink: "https://www.hackerrank.com/layman_brother",
     },
     {
       siteName: "Codechef",
@@ -304,7 +262,6 @@ const competitiveSites = {
       style: {
         color: "#5B4638",
       },
-      // profileLink: "https://www.codechef.com/users/maulid",
     },
     {
       siteName: "Codeforces",
@@ -327,7 +284,6 @@ const competitiveSites = {
       style: {
         color: "#20BEFF",
       },
-      // profileLink: "https://www.kaggle.com/laymanbrother",
     },
   ],
 };
@@ -405,60 +361,6 @@ const certifications = {
       alt_name: "IBM",
       color_code: "#1F70C199",
     },
-    // {
-    //   title: "Advanced ML on GCP",
-    //   subtitle: "- GCP Training",
-    //   logo_path: "google_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-    //   alt_name: "Google",
-    //   color_code: "#0C9D5899",
-    // },
-    // {
-    //   title: "DL on Tensorflow",
-    //   subtitle: "- Laurence Moroney",
-    //   logo_path: "deeplearning_ai_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-    //   alt_name: "deeplearning.ai",
-    //   color_code: "#00000099",
-    // },
-    // {
-    //   title: "Fullstack Development",
-    //   subtitle: "- Jogesh Muppala",
-    //   logo_path: "coursera_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-    //   alt_name: "Coursera",
-    //   color_code: "#2A73CC",
-    // },
-    // {
-    //   title: "Kuberenetes on GCP",
-    //   subtitle: "- Qwiklabs",
-    //   logo_path: "gcp_logo.png",
-    //   certificate_link:
-    //     "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-    //   alt_name: "GCP",
-    //   color_code: "#4285F499",
-    // },
-    // {
-    //   title: "Cryptography",
-    //   subtitle: "- Saurabh Mukhopadhyay",
-    //   logo_path: "nptel_logo.png",
-    //   certificate_link:
-    //     "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-    //   alt_name: "NPTEL",
-    //   color_code: "#FFBB0099",
-    // },
-    // {
-    //   title: "Cloud Architecture",
-    //   subtitle: "- Qwiklabs",
-    //   logo_path: "gcp_logo.png",
-    //   certificate_link:
-    //     "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-    //   alt_name: "GCP",
-    //   color_code: "#4285F499",
-    // },
   ],
 };
 
@@ -484,28 +386,6 @@ const experience = {
             "I am working on Electronic fiscal device management solution (EFDM) that will monitor and track transactions and sales records of businesses in Liberia.The EFDM solution comprises of a Tax management solution known as “Miliki” and Electronic fiscal devices (ETRs). Upgraded Tulaa Mobile apps to use Kotlin and MVVM pattern.Developed Keytabu mobile app which is used by teachers to post their tutorials and teach students online(udemy).",
           color: "#0879bf",
         },
-        // {
-        //   title: "Android and ML Developer",
-        //   company: "Muffito Incorporation",
-        //   company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-        //   logo_path: "muffito_logo.png",
-        //   duration: "May 2018 - Oct 2018",
-        //   location: "Pune, Maharashtra",
-        //   description:
-        //     "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-        //   color: "#9b1578",
-        // },
-        // {
-        //   title: "Android Developer",
-        //   company: "FreeCopy Pvt. Ltd.",
-        //   company_url: "https://www.linkedin.com/company/freecopy/about/",
-        //   logo_path: "freecopy_logo.png",
-        //   duration: "Nov 2017 - Dec 2017",
-        //   location: "Ahmedabad, Gujarat",
-        //   description:
-        //     "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-        //   color: "#fc1f20",
-        // },
       ],
     },
     {
@@ -522,18 +402,6 @@ const experience = {
             "I have worked on hands project which focuses on software development and security, for Web, mobile, POS terminals, and ATMs.At the end of the academy,I built a payment system which helps POS terminals save their daily transactions in our database, also created user management system where i can view my database data, i used springboot and Angular.",
           color: "#ee3c26",
         },
-        // {
-        //   title: "Data Science Intern",
-        //   company: "Intel Indexer LLC",
-        //   company_url:
-        //     "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-        //   logo_path: "intel_logo.jpg",
-        //   duration: "Nov 2018 - Dec 2018",
-        //   location: "Work From Home",
-        //   description:
-        //     "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-        //   color: "#0071C5",
-        // },
       ],
     },
     {
@@ -551,51 +419,6 @@ const experience = {
             "Andela Learning Community (ALC) is a Andela-sponsored program which is open to everyone interested in acquiring technical skills, regardless of their educational background, participants will be advancing their skills in  Web development, Android development and Google Cloud technologies on Pluralsight. Learners who successfully complete the Google Scholarship Certification Program have the opportunity to go a step further to take a Google Certification exam,thereby certifying their competence and job readiness. ",
           color: "#0000FF",
         },
-        // {
-        //   title: "Microsoft Student Partner",
-        //   company: "Microsoft",
-        //   company_url: "https://www.microsoft.com/",
-        //   logo_path: "microsoft_logo.png",
-        //   duration: "Aug 2019 - May 2020",
-        //   location: "Hyderabad, Telangana",
-        //   description:
-        //     "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
-        //   color: "#D83B01",
-        // },
-        // {
-        //   title: "Mozilla Campus Captain",
-        //   company: "Mozilla",
-        //   company_url: "https://www.mozilla.org/",
-        //   logo_path: "mozilla_logo.png",
-        //   duration: "Oct 2019 - May 2020",
-        //   location: "Kurnool, Andhra Pradesh",
-        //   description:
-        //     "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
-        //   color: "#000000",
-        // },
-        // {
-        //   title: "Developer Students Club Member",
-        //   company: "DSC IIITDM Kurnool",
-        //   company_url:
-        //     "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
-        //   logo_path: "dsc_logo.png",
-        //   duration: "Jan 2018 - May 2020",
-        //   location: "Kurnool, Andhra Pradesh",
-        //   description:
-        //     "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
-        //   color: "#0C9D58",
-        // },
-        // {
-        //   title: "Developer Program Member",
-        //   company: "Github",
-        //   company_url: "https://github.com/",
-        //   logo_path: "github_logo.png",
-        //   duration: "July 2019 - PRESENT",
-        //   location: "Work From Home",
-        //   description:
-        //     "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-        //   color: "#181717",
-        // },
       ],
     },
   ],
