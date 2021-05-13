@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Maulid's Portfolio",
   description:
-    "A passionate and enthusiastic web developer with  1 year of experience. I love new challenges and new projects that help me invest all my skills and experience into succeeding them.",
+    "A passionate and enthusiastic web developer with  2+ years of experience. I love new challenges and new projects that help me invest all my skills and experience into succeeding them.",
   og: {
     title: "Maulid Abdullahi Portfolio",
     type: "website",
@@ -21,11 +21,11 @@ const seo = {
 const greeting = {
   title: "Maulid Abdullahi",
   logo_name: "Maulid Abdullahi",
-  nickname: "Abdul",
+  nickname: "Abdull",
   subTitle:
-    "IT Professional with 1 year of experience in Mobile, Web and Systems development for payment companies. I can develop Web applications using React and Angular Frameworks. My greatest strength is adaptability, flexibility and ability to learn fast",
+    "IT Professional with 2+ years of experience in Mobile, Web and Systems development for payment companies. I can develop Web applications using React and Angular Frameworks. My greatest strength is adaptability, flexibility and ability to learn fast",
   resumeLink:
-    "https://drive.google.com/file/d/1CuIDIQLgYleCXH4azJm_rEGIK2FRfYmX/view?usp=sharing",
+    "https://drive.google.com/file/d/1Fvd0W5fo7TLZ0KL4bs5bgx8eAFSMwG2E/view?usp=sharing",
   portfolio_repository: "https://github.com/Maulid-Abdullahi?tab=repositories",
 };
 
